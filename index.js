@@ -1,7 +1,7 @@
 /*
  *Animates connected nodes about a grid
  *-------------------------------------
- *@date:      19th April, 2020
+
  */
 //set up the gridworm
 class GridWorm {
@@ -375,6 +375,7 @@ class Painter {
       }
     )
   }
+
   createGridWorms() {
     let gridworms = [],
       numOfGridWorms = 30
